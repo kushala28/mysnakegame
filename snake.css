@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times new roman';
+    color:white;
+    text-align: center;
+    background:url("s.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 150vh;
+    justify-content: center;
+}
+#board{
+    border: 2px solid white;
+}
